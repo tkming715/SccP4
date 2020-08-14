@@ -1,2 +1,2 @@
 # LearningGit
-UECS2363 Software Configuration and Construction
+Learning GitHub in UECS2363 Software Configuration and Construction
